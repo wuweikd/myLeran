@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^6.8.0"
-  }
+  },
+  "gitHead": "1f025cec6121a0b20a572924301bace684706d67"
 }
