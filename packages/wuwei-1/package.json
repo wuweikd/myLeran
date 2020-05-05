@@ -1,5 +1,5 @@
 {
-  "name": "package-1",
+  "name": "wuwei-1",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "eslint": "^6.8.0"
   },
-  "gitHead": "4f9490a75af7a7774c1a48b61332f448a6e084c2"
+  "gitHead": "32be968c66d2d0e36a172cb187ea125592b9d052"
 }
